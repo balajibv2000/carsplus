@@ -10,4 +10,4 @@ Refer to instruction.txt for the setup
 
 Screenshots:
 
-![](public/img/screenshots/Screenshot(1).png)
+![](/tree/main/public/img/screenshots/Screenshot(1).png)
