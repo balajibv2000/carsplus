@@ -1,5 +1,6 @@
 # cars+
 E-commerce website for buying and renting cars
+
 With both Frontend and Backend
 
 Website designed by 
@@ -9,4 +10,4 @@ Refer to instruction.txt for the setup
 
 Screenshots:
 
-![](public/img/screenshots/Screenshot(1).png
+![](public/img/screenshots/Screenshot(1).png)
