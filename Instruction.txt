@@ -1,0 +1,29 @@
+***************************** Welcome To Cars+ Website setup *******************
+
+Requirements :
+
+1.Mongodb
+2.node.js
+3.Mongodb compass(optional)
+
+********************************************************************************
+
+Backend setup:
+
+use monodb for database
+1.Create a database with name: car_brands
+2.Then create collections with name: brands
+3.Copy the data from database.json in the file to brands collection
+4.cd to backend folder and type-command: nodemon server.js or node server.js
+5.And keep the server running
+
+********************************************************************************
+
+Frontend setup:
+
+1.cd to this dir
+2.type-command: npm install
+3.type-command: npm start
+4.website will be running in localhost:3000
+
+********************************************************************************
