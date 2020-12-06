@@ -6,3 +6,7 @@ Website designed by
 Balaji B V | Devprakash | Bargav N V 
 
 Refer to instruction.txt for the setup
+
+Screenshots:
+
+![](pulic/img/screenshots/Screenshot(1).png
