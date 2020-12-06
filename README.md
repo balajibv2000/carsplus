@@ -9,4 +9,4 @@ Refer to instruction.txt for the setup
 
 Screenshots:
 
-![](pulic/img/screenshots/Screenshot(1).png
+![](public/img/screenshots/Screenshot(1).png
