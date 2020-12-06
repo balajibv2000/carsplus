@@ -1,0 +1,226 @@
+html {
+  max-height: 100%;
+}
+body {
+  margin-bottom: 0px; 
+  text-align: center;
+  height: 100%;
+  background-color: #f9f6f7;
+}
+ 
+.navbar{
+  font-size: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.brand {
+  font-size: 30px;
+  font-family: 'Fugaz One', cursive;
+  color: white;
+  margin-bottom: 0;
+}
+.login-signup {
+  position: absolute;
+  right: 20px;
+}
+.mid-container {
+  position: relative;
+}
+.home-img {
+  width: 100%;
+  opacity: 1;
+}
+
+.home_hover{
+  opacity: 0;
+}
+
+.quote {
+  position: absolute;
+  top: 47%;
+  left: 23%;
+  transform: translate(-50%, -50%);
+ 
+}
+
+.cs{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 47%;
+  right: 3%;
+
+}
+
+.myButton {
+	background-color:#ed1313;
+	border-radius:41px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	padding:20px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #f01338;
+}
+.myButton:hover {
+  background-color:#e04866;
+  color:#ffffff;
+  
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.mid-container:hover .home-img {
+  opacity: 0.9;
+}
+
+.mid-container:hover .home_hover {
+  opacity: 1;
+}
+
+
+.h1class{
+  font-family: 'Anton', sans-serif;
+  font-size: 70px;
+  color: antiquewhite;
+  text-shadow: 20px;
+  text-align: left;
+}
+.h2class {
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  color: #5d54a4;
+  text-align: center;
+  margin-top: 30px;
+  word-spacing: 10px;
+}
+.gallery-container {
+  margin: auto;
+}
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
+  display: inline-block;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+.pageSection {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 50px;
+  text-align: left;
+}
+
+.pageSection h2 {
+  font-size: 30px;
+  text-align: left;
+}
+
+.imgFrame {
+  float: left;
+  margin-right: 10px;
+}
+
+.pagePara {
+  display: inline;
+  font-size: 15px;
+}
+
+.col {
+  margin: 0;
+  column-count: 3;
+  column-gap: 30px;
+  column-rule: 1px solid lightblue;
+}
+
+ul{
+  list-style-type:none;
+}
+
+.para{
+  padding-top: 30px;
+  font-size: 15px;
+  line-height: 1;
+}
+
+.product{
+  width: 320px;
+  height: 250px;
+  margin: 10px;
+}
+.product:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  line-height: 60px; 
+  background-color: #343a40!important;
+  margin-top: 100px;
+  padding: 10px;
+  color: #ccc;
+}
+
+
+.social:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+.social {
+  -webkit-transform: scale(0.8);
+
+  
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+
+  padding: 10px;
+}
+
+
+#social-fb:hover {
+  color: #3B5998;
+}
+#social-tw:hover {
+  color: #4099FF;
+}
+#social-git:hover {
+  color: #f3f5f7;
+}
+#social-ig:hover {
+  color: #c42f74;
+}
+#social-em:hover {
+  color: #f39c12;
+}
+a { color: inherit; } 
+
+a:hover 
+{
+   text-decoration:none; 
+   cursor:pointer;  
+}

@@ -1,0 +1,311 @@
+[{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e74"
+  },
+  "brand": "Audi",
+  "name": "Audi Q2",
+  "scale": 34.99,
+  "price": "34.99 Lakh",
+  "priceRange": "20-40",
+  "description": "Audi Q2 is a 5 seater SUV/MUV available in a price range of Rs 35.00 - 48.89 Lakh. It is available in 5 variants, 1 engine option and 1 transmission option : Automatic (Dual Clutch). Other key specifications of the Q2 include a Kerb Weight of 1505 kg and Bootspace of 355 litres."
+},{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e75"
+  },
+  "brand": "Audi",
+  "name": "Audi A6",
+  "scale": 54.42,
+  "price": "54.42 Lakh",
+  "priceRange": "40-60",
+  "description": "The Audi A6 has 1 Petrol Engine on offer. The Petrol engine is 1984 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the A6 has a mileage of 17.01 kmpl. The A6 is a 5 seater Sedan and has a length of 4933mm, width of 1874mm and a wheelbase of 2912mm."
+},{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e76"
+  },
+  "brand": "Audi",
+  "name": "Audi Q8",
+  "scale": 98.98,
+  "price": "98.98 Lakh",
+  "priceRange": "80-100",
+  "description": "The Audi Q8 has 1 Petrol Engine on offer. The Petrol engine is 2995 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Q8 has a mileage of 9.8 kmpl. The Q8 is a 5 seater SUV and has a length of 4986mm, width of 1995mm and a wheelbase of 2995mm."
+},{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e77"
+  },
+  "brand": "Porsche",
+  "name": "Porsche 911",
+  "scale": 163,
+  "price": "1.63 Crore",
+  "priceRange": "100-200",
+  "description": "The Porsche 911 has 1 Petrol Engine on offer. The Petrol engine is 2981 cc. It is available with the Automatic transmission. The 911 is a 4 seater Coupe and has a length of 4519mm, width of 1852mm and a wheelbase of 2450mm."
+},{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e78"
+  },
+  "brand": "Porsche",
+  "name": "Porsche Macan",
+  "scale": 69.98,
+  "price": "69.98 Lakh",
+  "priceRange": "60-80",
+  "description": "The Porsche Macan has 2 Petrol Engine on offer. The Petrol engine is 1984 cc and 2997 cc. It is available with the Automatic transmission. The Macan is a 5 seater SUV and has a length of 4696mm, width of 1923mm and a wheelbase of 2807mm."
+},{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e79"
+  },
+  "brand": "Porsche",
+  "name": "Porsche Panamera",
+  "scale": 148,
+  "price": "1.48 Crore",
+  "priceRange": "100-200",
+  "description": "The Porsche Panamera has 3 Petrol Engine on offer. The Petrol engine is 3996 cc and 2999 cc and 4806 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Panamera has a mileage of 10.75 kmpl. The Panamera is a 5 seater Sedan and has a length of 5199 mm, width of 1937 mm and a wheelbase of 3100mm."
+},{
+  "_id": {
+    "$oid": "5fa91e0907fc31e1697e6e7a"
+  },
+  "brand": "Aston Martin",
+  "name": "Aston Martin Vantage",
+  "scale": 300,
+  "price": "3 Crore",
+  "priceRange": "200-300",
+  "description": "The Aston Martin Vantage has 1 Petrol Engine on offer. The Petrol engine is 3998 cc. It is available with the Manual transmission. The Vantage is a 2 seater Convertible and has a length of 4739mm, width of 1940mm and a wheelbase of 2804mm."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb2854803505"
+  },
+  "brand": "Maruti",
+  "name": "Maruti Vitara-Brezza",
+  "scale": 7.34,
+  "price": "7.34 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Maruti Suzuki Vitara Brezza might not break new ground for design but its boxy silhouette and upright stance give it the right look. 2020’s update that has brought in new bumpers, LED headlights and new alloy wheels adds some glamour to the look. Changes to the inside, however, are restricted to an upgraded touchscreen infotainment system. There’s nothing particularly remarkable about the dashboard design but it is well laid out and user-friendly. Drivers will like the relatively high seating position while rear seat occupants will also appreciate the good view out and generous space on offer. The well-shaped boot also adds to the Brezza’s practicality."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb2854803506"
+  },
+  "brand": "Maruti",
+  "name": "Maruti Ciaz",
+  "scale": 8.31,
+  "price": "8.31 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Ciaz is Maruti Suzuki’s smart and sensible mid-sized sedan. A popular model, the Ciaz was updated in 2018 with revised styling, more features and a more powerful mild-hybrid petrol engine. Following the discontinuation of diesel engine versions, the Ciaz range now only comprises petrol-manual and petrol-automatic options. The Ciaz is exclusively sold from Maruti Suzuki’s Nexa retail network."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb2854803507"
+  },
+  "brand": "Maruti",
+  "name": "Maruti Dzire",
+  "scale": 8.8,
+  "price": "8.8 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Maruti Dzire has 1 Petrol Engine on offer. The Petrol engine is 1197 cc. It is available with the Manual and Automatic transmission. Depending upon the variant and fuel type the Dzire has a mileage of 23.26 to 24.12 kmpl. The Dzire is a 5 seater Sedan and has a length of 3995mm, width of 1735mm and a wheelbase of 2450mm."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb2854803508"
+  },
+  "brand": "Maruti",
+  "name": "Maruti XL6",
+  "scale": 9.84,
+  "price": "9.84 Lakhs",
+  "priceRange": "5-20",
+  "description": "The new Maruti Suzuki XL6 is a premium derivative of the Ertiga MPV. The 'XL' in the name expands to 'exclusive' (not 'extra large'), while the '6' is there to communicate that this is a pure six-seater. There are other changes inside and out, too, and to add further distinction to the proposition, Maruti will retail the XL6 through its premium Nexa network. There are no diesel engines on offer but the XL6's BS6 petrol motor does feature mild-hybrid tech and is available with the choice of manual and automatic transmissions."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb2854803509"
+  },
+  "brand": "Maruti",
+  "name": "Maruti S-cross",
+  "scale": 9.6,
+  "price": "9.6 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Maruti S-Cross has 1 Petrol Engine on offer. The Petrol engine is 1462 cc. It is available with the Manual and Automatic transmission. Depending upon the variant and fuel type the S-Cross has a mileage of 18.43 to 18.55 kmpl. The S-Cross is a 5 seater SUV and has a length of 4300, width of 1785 and a wheelbase of 2600."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb285480350a"
+  },
+  "brand": "Maruti",
+  "name": "Maruti Ertiga",
+  "scale": 7.59,
+  "price": "7.59 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Maruti Ertiga has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1462 cc while the CNG engine is 1462 cc. It is available with the Manual and Automatic transmission. Depending upon the variant and fuel type the Ertiga has a mileage of 17.99 kmpl to 26.08 km/kg. The Ertiga is a 7 seater MPV and has a length of 4395 mm, width of 1735 mm and a wheelbase of 2740 mm."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb285480350c"
+  },
+  "brand": "Volvo",
+  "name": "Volvo XC60",
+  "scale": 59.9,
+  "price": "59.9 Lakhs",
+  "priceRange": "40-60",
+  "description": "The new XC60 is based on the same, Scalable Product Architecture (SPA) platform as the XC90 and also borrows design elements and a lot of features from its elder sibling. It features new LED headlamps and redesigned 'Thor's Hammer' LED DRLs that extend up to the grille. On the rear end, it has the Volvo's signature L-shaped tail-light cluster with LED lights. Step inside and you'll see a 12.3-inch touchscreen infotainment system on the centre console."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb285480350d"
+  },
+  "brand": "Volvo",
+  "name": "Volvo XC90",
+  "scale": 80.9,
+  "price": "80.9 Lakhs",
+  "priceRange": "80-100",
+  "description": "The XC90, being a Volvo, is packed with safety features such as seven airbags, radar-based adaptive cruise control, lane keeping assist, collision avoidance (front and rear) and city braking system, blind spot detection with cross traffic alert and run-off road protection.Other features on offer include a panoramic sunroof, four-zone climate control, powered front seats with massage function, air suspension, 12.3-inch all-digital instrument cluster and a 9-inch touchscreen infotainment system with a Bower and Wilkins sound system."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb285480350e"
+  },
+  "brand": "Volvo",
+  "name": "Volvo XC40",
+  "scale": 39.9,
+  "price": "39.9 Lakhs",
+  "priceRange": "20-40",
+  "description": "The Volvo XC40 has breezed through Euro-NCAP tests with a five-star rating. Vovlo sold off the first lot of 200 units earmarked for the country within two weeks of launching it. Prices of the next lot of R-Design units have subsequently been increased from Rs 39.9 lakh to Rs 42.9 lakh (ex-showroom). Volvo has also added two new variants to the range - Momentum and Inscription."
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb285480350f"
+  },
+  "brand": "Volvo",
+  "name": "Volvo V 60",
+  "scale": 45,
+  "price": "45 Lakhs",
+  "priceRange": "40-60",
+  "description": "Using Volvo Drive-E technology, there will be a choice of engines available: a D3 diesel, offering 150hp, 64.2mpg and CO2 emissions of only 117g/km; a D4 diesel, producing 190hp, giving 64mpg and also producing only 117g/km of CO2 emissions; and a 250hp T5 petrol engine, offering 43.7mpg and producing 150g/km of emissions. All three engines are powerful and efficient 2.0-litre, four-cylinder units. Another petrol engine and a choice of two plug-in Twin Engine hybrids "
+},{
+  "_id": {
+    "$oid": "5fb4eab07273eb2854803510"
+  },
+  "brand": "Volvo",
+  "name": "Volvo P60",
+  "scale": 32.64,
+  "price": "32.64 Lakhs",
+  "priceRange": "20-40",
+  "description": ": The Volvo S60 has 2 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1969 cc and 2400 cc while the Petrol engine is 1969 cc. It is available with the transmission. Depending upon the variant and fuel type the S60 has a mileage of 19.6 to 27.03 kmpl. The S60 is a 5 seater Luxury and has a length of 4635mm, width of 2097mm and a wheelbase of 2776mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803511"
+  },
+  "brand": "Jaguar",
+  "name": "Jaguar XE",
+  "scale": 48.5,
+  "price": "48.50 Lakhs",
+  "priceRange": "40-60",
+  "description": "The Jaguar XE has 1 Petrol Engine on offer. The Petrol engine is 1997 cc. It is available with the Automatic transmission. The XE is a 5 seater Sedan and has a length of 4691mm, width of 2075mm and a wheelbase of 2835mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803512"
+  },
+  "brand": "Jaguar",
+  "name": "Jaguar I-Pace",
+  "scale": 102,
+  "price": "1.2 Crore",
+  "priceRange": "100-200",
+  "description": "The Jaguar I-Pace has 1 Electric Engine on offer. It is available with the Automatic transmission. The I-Pace is a 5 seater SUV and has a length of 4682mm, width of 2139mm and a wheelbase of 2990mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803513"
+  },
+  "brand": "Bentley",
+  "name": "Bentley Bentayga",
+  "scale": 325,
+  "price": "3.25 Crore",
+  "priceRange": ">300",
+  "description": "The Bentley Bentayga has 2 Petrol Engine on offer. The Petrol engine is 5950 cc and 3998 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Bentayga has a mileage of 10.9 to 11.11 kmpl. The Bentayga is a 5 seater SUV and has a length of 5141mm, width of 2223mm and a wheelbase of 2992mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803514"
+  },
+  "brand": "Bentley",
+  "name": "Bentley Flying Spur",
+  "scale": 341,
+  "price": "3.41 Crore",
+  "priceRange": ">300",
+  "description": "The Bentley Flying Spur has 2 Petrol Engine on offer. The Petrol engine is 3993 cc and 5950 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Flying Spur has a mileage of 10.2 to 12.5 kmpl. The Flying Spur is a 4 seater Sedan and has a length of 5316mm, width of 2013 and a wheelbase of 3194mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803515"
+  },
+  "brand": "Ferrari",
+  "name": "Ferrari Portofino",
+  "scale": 350,
+  "price": "3.5 Crore",
+  "priceRange": ">300",
+  "description": "The Ferrari Portofino has 1 Petrol Engine on offer. The Petrol engine is 3855 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Portofino has a mileage of 9.0 kmpl. The Portofino is a 4 seater Convertible and has a length of 4586mm, width of 1938mm and a wheelbase of 2670mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803516"
+  },
+  "brand": "Ferrari",
+  "name": "Ferrari F8 Tributo",
+  "scale": 400,
+  "price": "4 Crore",
+  "priceRange": ">300",
+  "description": "The Ferrari F8 Tributo has 1 Petrol Engine on offer. The Petrol engine is 3902 cc. It is available with the Automatic transmission. The F8 Tributo is a 2 seater Coupe and has a length of 4611, width of 1979 and a wheelbase of 2650."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803517"
+  },
+  "brand": "Mercedes-Benz",
+  "name": "Mercedes-Benz C-Class",
+  "scale": 130,
+  "price": "1.3 Crore",
+  "priceRange": "100-200",
+  "description": "The Mercedes-Benz C-Class has 1 Diesel Engine and 4 Petrol Engine on offer. The Diesel engine is 1950 cc while the Petrol engine is 1950 cc and 1991 cc and 2996 cc and 3982 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the C-Class has a mileage of 9.6 to 12.6 kmpl. The C-Class is a 5 seater Coupe and has a length of 4686mm, width of 1810mm and a wheelbase of 2840mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803518"
+  },
+  "brand": "Mercedes-Benz",
+  "name": "Mercedes-Benz GLS",
+  "scale": 99.9,
+  "price": "99.9 Lakhs",
+  "priceRange": "80-100",
+  "description": "The Mercedes-Benz GLS has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2925 cc while the Petrol engine is 2999 cc. It is available with the Automatic transmission. The GLS is a 7 seater SUV and has a length of 5207, width of 2157 and a wheelbase of 3135."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb2854803519"
+  },
+  "brand": "McLaren",
+  "name": "McLaren 570S",
+  "scale": 500,
+  "price": "5 Crore",
+  "priceRange": ">300",
+  "description": "The 2020 McLaren 570S is for those who actually do. Make no mistake, this mid-engine sports car isn't just meant to cruise the boulevard or attract gawkers everywhere it goes. No. Both models–the sporty 570S and the topless 570S Spider—have driver engagement engrained into their DNA. Each feature a soulful 562-hp twin-turbo V-8 that provides amazing acceleration and wails like a heavy-metal band. Combine that with the sharp-edged cornering of an Olympic figure skater and the grip of a vise and you essentially have the highlights of driving any of these magnificent McLarens. There's a big difference between a supercar pretender and a supercar contender—the 2020 570 clan is the latter."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb285480351a"
+  },
+  "brand": "Rolls Royce",
+  "name": "Rolls Royce",
+  "scale": 1050,
+  "price": "10.5 Crore",
+  "priceRange": ">300",
+  "description": "The Rolls Royce Phantom has 1 Petrol Engine on offer. The Petrol engine is 6749 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Rolls Royce Phantom has a mileage of 9.8 kmpl. The Rolls Royce Phantom is a 5 seater Sedan and has a length of 5982mm, width of 2018mm and a wheelbase of 3772mm."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb285480351b"
+  },
+  "brand": "Renault",
+  "name": "Renault Duster",
+  "scale": 13.5,
+  "price": "13.5 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Renault Duster has 2 Petrol Engine on offer. The Petrol engine is 1498 cc and 1330 cc. It is available with the Manual and Automatic transmission. Depending upon the variant and fuel type the Duster has a mileage of 16.42 kmpl. The Duster is a 5 seater SUV and has a length of 4360, width of 1822 and a wheelbase of 2673."
+},{
+  "_id": {
+    "$oid": "5fb4fe537273eb285480351c"
+  },
+  "brand": "Renault",
+  "name": "Renault K-ZE",
+  "scale": 10,
+  "price": "10 Lakhs",
+  "priceRange": "5-20",
+  "description": "The Renault K-ZE has 1 Electric Engine on offer. It is available with the Automatic transmission. The K-ZE has a length of 3735mm, width of 1579mm and a wheelbase of 2423mm."
+},{
+  "_id": {
+    "$oid": "5fc4ef9c81bcf217d88484a9"
+  },
+  "brand": "Bugatti",
+  "name": "Bugatti Chiron",
+  "scale": 212.1,
+  "price": "21.21 Crore",
+  "priceRange": ">300",
+  "description": "All Chiron models are motivated by an 8.0-liter 16-cylinder powerplant. This beast of an engine employs four turbochargers to generate a mighty 1500 horsepower and 1180 lb-ft of torque. Bugatti claims that the Chiron makes the dash from zero to 60 mph in a mere 2.3 seconds, and it has a top speed of 261 mph. If the Chiron's standard engine doesn't quench your thirst for speed, step up to the Chiron Super Sport 300+. This model is equipped with a slightly more potent version of the base powerplant, and it produces 1578 horsepower. Piloted by factory test driver Andy Wallace, a model with specs almost identical to those of the Chiron Super Sport 300+ logged a record-setting 304.773 mph test-track run. With every model in the Chiron lineup, power is sent to all four wheels by a seven-speed dual-clutch automatic transmission."
+}]
