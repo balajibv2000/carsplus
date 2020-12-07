@@ -12,7 +12,7 @@ Backend setup:
 
 use monodb for database
 1.Create a database with name: car_brands
-2.Then create collections with name: brands
+2.Then create a collection with name: brands
 3.Copy the data from database.json in the file to brands collection
 4.cd to backend folder and type-command: nodemon server.js or node server.js
 5.And keep the server running
