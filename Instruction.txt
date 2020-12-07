@@ -8,6 +8,16 @@ Requirements :
 
 ********************************************************************************
 
+Frontend setup:
+
+1.cd to this dir
+2.type-command: npm install
+3.type-command: npm start
+4.website will be running in localhost:3000
+
+********************************************************************************
+
+
 Backend setup:
 
 use monodb for database
@@ -19,11 +29,3 @@ use monodb for database
 
 ********************************************************************************
 
-Frontend setup:
-
-1.cd to this dir
-2.type-command: npm install
-3.type-command: npm start
-4.website will be running in localhost:3000
-
-********************************************************************************
