@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { BrowserRouter as Router, Route} from "react-router-dom";
 import LogedInNavbar from "./components/logedin"
 import Home from "./components/home.component"
@@ -11,7 +11,9 @@ import ProductPageComponent from "./components/ProductPage.component"
 import BrandPage from "./components/BrandPage.component"
 import Login from "./components/login.component"
 import Payment from "./components/payment.component"
+import rentPayment from "./components/rentpayment.component"
 import PaymentSuccess from "./components/paymentSuccessfull"
+import Axios from "axios";
 
 const NotFound = () => {
   return (
@@ -20,11 +22,10 @@ const NotFound = () => {
       </div>
   )
 }
-
 class App extends React.Component {
   constructor(props){
     super(props);
-    this.state = {products: []}
+    this.state = {products: [] , count: []}
   }
 
   componentWillMount(){
@@ -32,6 +33,12 @@ class App extends React.Component {
     .then(data => this.setState({
       products:data,
     }))
+
+    fetch("http://localhost:5000/visitors").then(res =>res.json())
+    .then(data => this.setState({
+      count:data[0].count+1,
+    }))
+    
   }
 
   renderProducts = (routerProps) => {
@@ -45,25 +52,31 @@ class App extends React.Component {
     return (<BrandPage brand={brandName} />)
   }
 
-
+  
   render(){
+    console.log(this.state.count)
+
+    const updatedCount = { "count":this.state.count }
+
+    Axios.post("http://localhost:5000/visitorsUpdate" , updatedCount)
+
     return (
       <Router>
         
         <Route path="/" exact >
           <LogedInNavbar />
           <Home />
-          <Footer />
+          <Footer visitors = {this.state.count}/>
         </Route>
         <Route path="/blog" >
           <LogedInNavbar />
           <Blog />
-          <Footer />
+          <Footer visitors = {this.state.count}/>
         </Route>
         <Route path="/contact" >
           <LogedInNavbar />
           <Contact />
-          <Footer />
+          <Footer visitors = {this.state.count}/>
         </Route>
         <Route path="/buyNow" >
           <LogedInNavbar />
@@ -72,17 +85,18 @@ class App extends React.Component {
         <Route path="/user/register" component={Register} />
         <Route path="/user/login" component={Login} />
         <Route path="/payment" component={Payment} />
+        <Route path="/rentpayment" component={rentPayment} />
         <Route path="/paymentSuccessfull" component={PaymentSuccess} />
 
         <Route path="/brand">
           <LogedInNavbar />
           <Route path="/brand/:name" render = {routerPropsBrand => this.renderBrands(routerPropsBrand)} />
-          <Footer />
+          <Footer visitors = {this.state.count}/>
         </Route>
         <Route path="/brands">
           <LogedInNavbar />
           <Route path="/brands/:name" render = {routerProps => this.renderProducts(routerProps)} />
-          <Footer />
+          <Footer visitors = {this.state.count}/>
         </Route>
       </Router>
 

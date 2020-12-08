@@ -32,6 +32,45 @@ app.get('/brands' , function (req , res) {
 
 })
 
+const visitorsCount = new Schema({
+    _id: Number,
+    count : Number 
+})
+
+const Visitors = mongoose.model('Visitors' , visitorsCount)
+
+Visitors.find({} , function(err , visitors){
+    if(visitors.length === 0)
+    {
+        let _id = 1
+        let count = 0;
+        const newCount = new Visitors ({_id , count});
+      
+        newCount.save()
+    }
+})
+
+app.get('/visitors' , function (req , res) {
+    Visitors.find()
+        .then(visitors =>res.json(visitors))
+        .catch(err => res.satus(400).json('Error ' + err))
+
+})
+
+app.post('/visitorsUpdate' , function (req , res){  
+      try{
+        Visitors.updateOne({_id: 1} , {count: req.body.count} , function(err){
+            if(err){
+                console.log(err)
+            }
+      }
+  )
+      } catch (err) {
+        res.status(500).json({ error: err.message });
+      }   
+})
+
+
 const signupRouter = require('./routes/userRouter')
 
 app.use('/users' , signupRouter)
