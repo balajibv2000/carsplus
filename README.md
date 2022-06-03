@@ -16,8 +16,6 @@ Screenshots:
 
 ![](/public/img/screenshots/Screenshot%20(3).png)
 
-![](/public/img/screenshots/Screenshot%20(4).png)
-
 ![](/public/img/screenshots/Screenshot%20(5).png)
 
 ![](/public/img/screenshots/Screenshot%20(6).png)
